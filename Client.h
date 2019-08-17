@@ -49,12 +49,3 @@ class Client{
 		}
 
 };
-// int main(int argc, char const *argv[]) 
-// { 
-	
-// 	Client cli;
-// 	cli.setup("192.168.8.101",8080);
-// 	for ( int i =0;i<10;i++){
-// 		printf("Recieved : %s\n",cli.send_request("Tata Bye!"));
-// 	}
-// } 
